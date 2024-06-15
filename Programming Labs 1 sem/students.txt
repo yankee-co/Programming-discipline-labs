@@ -1,0 +1,12 @@
+Lana Berg 5 4 3 5 0
+Muhammed Richmond 5 5 3 4 500
+Issac Mathews 4 4 4 3 0
+Cassandra Mitchell 5 4 3 5 500
+Amaya Mccann 5 5 4 3 500
+Umair O'Reilly 4 4 5 4 700
+Addie Aguirre 4 3 4 4 0
+Ela Peck 5 5 5 5 1000
+Joanne Vargas 4 5 4 5 900
+Lucie Church 5 4 5 5 900
+Amaya Mccann 5 5 4 3 500
+Umair O'Reilly 4 4 5 4 700

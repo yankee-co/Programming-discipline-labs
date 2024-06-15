@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673791518 source:h:\sda-c-programs\programming labs\labno6\main.c
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
